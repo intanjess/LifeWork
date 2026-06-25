@@ -1,0 +1,6 @@
+{
+  "name": "LifeWork OS",
+  "description": "LifeWork OS — sistem manajemen pekerjaan, proyek, jadwal, dan target dalam satu dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
